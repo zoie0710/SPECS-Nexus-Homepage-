@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open homepage.html",
+            "file": "c:\\Users\\zoie\\Downloads\\SPECS Nexus\\homepage.html"
+        }
+    ]
+}
